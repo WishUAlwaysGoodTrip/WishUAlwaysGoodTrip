@@ -1,5 +1,5 @@
 
-# Hi, I'm Yifan Geng 👋
+# Hi, I'm Yifan 👋
 
 I'm a **Master of Computer Science** graduate based in **Sydney**, focusing on **Data Analytics / Data Engineering** and practical **Machine Learning**.  
 I enjoy building data products end-to-end — from wrangling messy data and designing pipelines to dashboards and applied ML/NLP projects.
